@@ -18,7 +18,5 @@ Aşağıda kurs boyunca ilerleteceğimiz projelerin ve ödevlerin listesi bulunm
 4. **[Çevrimiçi Film Kiralama Sistemi UML Sınıf Diyagramı Tasarımı](./uml-diagram-online-movie-rental/uml-movie.md)**
    > Kullanıcıların film kiralama ve satın alma süreçlerini, hesap kredilerini ve işlem geçmişini aktaran UML modellemesi.
 
-5. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
-
----
-*Not: İçerikler ilerleyen modüller açıldıkça güncellenecektir.*
+5. **[Asansör Simülasyonu UML Sınıf Diyagramı Tasarımı](./uml-elevator/uml-elevator.md)**
+   > 12 katlı bir binada 5 asansörün trafiğini yöneten, kontrol paneli, katlar ve trafik zamanlayıcı (scheduler) bileşenlerini barındıran OOP tabanlı UML modellemesi.
