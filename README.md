@@ -15,7 +15,10 @@ Aşağıda kurs boyunca ilerleteceğimiz projelerin ve ödevlerin listesi bulunm
 3. **[Uçuş Yönetim Sistemi UML Sınıf Diyagramı Tasarımı](./uml-diagram-airline/uml-airline.md)**
    > Havayolu şirketlerinin uçuşlarını, uçak özelliklerini ve uçuşa atanan pilotları tasvir eden UML modellemesi.
 
-4. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
+4. **[Çevrimiçi Film Kiralama Sistemi UML Sınıf Diyagramı Tasarımı](./uml-diagram-online-movie-rental/uml-movie.md)**
+   > Kullanıcıların film kiralama ve satın alma süreçlerini, hesap kredilerini ve işlem geçmişini aktaran UML modellemesi.
+
+5. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
 
 ---
 *Not: İçerikler ilerleyen modüller açıldıkça güncellenecektir.*
