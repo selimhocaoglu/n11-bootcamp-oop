@@ -9,8 +9,10 @@ Aşağıda kurs boyunca ilerleteceğimiz projelerin ve ödevlerin listesi bulunm
 1. **[Üniversite UML Sınıf Diyagramı Tasarımı](./uml-diagram-university/uml-university.md)**
    > Üniversite, departman, ofis ve çalışanlar (profesör/memur) arasındaki ilişkileri gösteren UML modellemesi.
 
-2. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
-3. *(...)*
+2. **[Hayvanat Bahçesi UML Sınıf Diyagramı Tasarımı](./uml-diagram-zoo/uml-zoo.md)**
+   > Hayvanat bahçesindeki atlar, kedigiller ve kemirgenler gibi çeşitli hayvan sınıflarının ortak özelliklerini, ilaç dozajı ve beslenme programlarını gösteren UML modellemesi.
+
+3. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
 
 ---
 *Not: İçerikler ilerleyen modüller açıldıkça güncellenecektir.*
