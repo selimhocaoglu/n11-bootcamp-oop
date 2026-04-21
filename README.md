@@ -12,7 +12,10 @@ Aşağıda kurs boyunca ilerleteceğimiz projelerin ve ödevlerin listesi bulunm
 2. **[Hayvanat Bahçesi UML Sınıf Diyagramı Tasarımı](./uml-diagram-zoo/uml-zoo.md)**
    > Hayvanat bahçesindeki atlar, kedigiller ve kemirgenler gibi çeşitli hayvan sınıflarının ortak özelliklerini, ilaç dozajı ve beslenme programlarını gösteren UML modellemesi.
 
-3. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
+3. **[Uçuş Yönetim Sistemi UML Sınıf Diyagramı Tasarımı](./uml-diagram-airline/uml-airline.md)**
+   > Havayolu şirketlerinin uçuşlarını, uçak özelliklerini ve uçuşa atanan pilotları tasvir eden UML modellemesi.
+
+4. *(Gelecek projeler ve ödevler buraya eklenecektir...)*
 
 ---
 *Not: İçerikler ilerleyen modüller açıldıkça güncellenecektir.*
